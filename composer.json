@@ -1,0 +1,13 @@
+{
+    "name": "vendor/rest",
+    "description": "Rest API Services Messages",
+    "authors": [
+        {
+            "name": "maicon",
+            "email": "maiconschelter@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "2.*"
+    }
+}
